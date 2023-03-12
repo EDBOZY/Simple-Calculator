@@ -1,0 +1,36 @@
+.main{
+	background:grey;
+	width:462px;
+	height:610px;
+	margin-left:495px;
+	margin-top:110px;
+
+}
+#calc{
+	background:white;
+	width:310px;
+	height:67px;
+	margin-left:73px;
+	margin-top:36px;
+	pointer-events:none;
+}
+.button{
+	width:87px;
+	height:70px;
+	margin-left:20px;
+	margin-top:20px;
+	background:orange;
+	color:black;
+}
+.button1{
+	margin-left:350px;
+	width:87px;
+	height:70px;
+	margin-top:10px;
+
+}
+h1{
+	margin-left:559px;
+	color:red;
+	margin-top:80px;
+}
